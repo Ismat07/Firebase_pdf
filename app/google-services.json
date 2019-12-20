@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1061432518260",
+    "firebase_url": "https://pdfstorage-339c5.firebaseio.com",
+    "project_id": "pdfstorage-339c5",
+    "storage_bucket": "pdfstorage-339c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061432518260:android:db675e7750478348",
+        "android_client_info": {
+          "package_name": "com.example.ismatkhanam.pdf_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061432518260-5un6f6qdb2i2bhfju1dst44sek2cp6bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ismatkhanam.pdf_storage",
+            "certificate_hash": "2b87fa89d025d6a11ea6570456b9eefe07072d3a"
+          }
+        },
+        {
+          "client_id": "1061432518260-s5o479d8hbuht7n3gep37fgfa6vurb35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflqFZ4NRzOtlPDAxW7RxtyiUcoOLz8-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061432518260-s5o479d8hbuht7n3gep37fgfa6vurb35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061432518260:android:b4762d91111b60e2",
+        "android_client_info": {
+          "package_name": "com.example.ismatkhanam.storage_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061432518260-jmqt603p0g4lflvfjei5r23dbv6609qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ismatkhanam.storage_pdf",
+            "certificate_hash": "2b87fa89d025d6a11ea6570456b9eefe07072d3a"
+          }
+        },
+        {
+          "client_id": "1061432518260-s5o479d8hbuht7n3gep37fgfa6vurb35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflqFZ4NRzOtlPDAxW7RxtyiUcoOLz8-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061432518260-s5o479d8hbuht7n3gep37fgfa6vurb35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
